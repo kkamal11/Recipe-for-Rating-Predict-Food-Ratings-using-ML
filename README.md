@@ -13,6 +13,9 @@ A Machine Learning Project to Predict Food Ratings for a restaurant.
 
 
 
+![img](./img.png)
+
+
 
 
 
