@@ -1,4 +1,4 @@
-# Recipe-for-Rating-Predict-Food-Ratings-using-ML
+# Recipe-for-Rating-Predict-Food-Ratings-using-ML [![Open in Nbviewer](https://img.shields.io/badge/Open%20in-Nbviewer-blue)](https://nbviewer.org/github/kkamal11/Recipe-for-Rating-Predict-Food-Ratings-using-ML/blob/main/21f2000804-notebook-t12024.ipynb)
 A Machine Learning Project to Predict Food Ratings for a restaurant.
 
 
@@ -9,6 +9,8 @@ A Machine Learning Project to Predict Food Ratings for a restaurant.
 - Fine-tuned models using GridSearchCV to optimize hyperparameters and improve accuracy.
 - Evaluated model performance with accuracy, F1-score, and confusion matrices.
 - Visualized results with matplotlib and seaborn to gain insights into model performance and feature importance.
+
+
 
 
 
