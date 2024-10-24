@@ -1,4 +1,5 @@
-# Recipe-for-Rating-Predict-Food-Ratings-using-ML [![Open in Nbviewer](https://img.shields.io/badge/Open%20in-Nbviewer-blue)](https://nbviewer.org/github/kkamal11/Recipe-for-Rating-Predict-Food-Ratings-using-ML/blob/main/21f2000804-notebook-t12024.ipynb)
+# Recipe-for-Rating-Predict-Food-Ratings-using-ML [![Open in Nbviewer](https://img.shields.io/badge/Open%20in-Nbviewer-blue)](https://nbviewer.org/github/kkamal11/Recipe-for-Rating-Predict-Food-Ratings-using-ML/blob/main/21f2000804-notebook-t12024.ipynb) [![Open in Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-blue?logo=googlecolab)](https://github.com/kkamal11/Recipe-for-Rating-Predict-Food-Ratings-using-ML/blob/main/21f2000804-notebook-t12024.ipynb)
+
 A Machine Learning Project to Predict Food Ratings for a restaurant.
 
 
